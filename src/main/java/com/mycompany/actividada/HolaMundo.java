@@ -12,6 +12,6 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Prueba Git");
         System.out.println("edit 1"); // edit 1º usuario
-        System.out.println("edit 2"); //edit simultaneo 1º usuario
+        System.out.println("edit 2.1"); //edit simultaneo 2º usuario
     }
 }
